@@ -13,7 +13,7 @@ body{
 
     background: url(${githubBackground}) no-repeat 70% top;
     -webkit-font-smoothing: antialiased;
-    background-color: #d6d6d6;
+    background-color: #d0d0d0;
 
 }
 
